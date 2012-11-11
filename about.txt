@@ -2,10 +2,10 @@
 	Briage是一款开源的WEB开发框架，它主张更加快速的在小团队中开发大型应用。
 
 成员：
-	lost404(lost404@163.com)
-	lxy
-	vox
-	jack-yyf
+	lost404(lost404@163.com)</br>
+	lxy</br>
+	vox</br>
+	jack-yyf</br>
 
 案例：
 	草旅网(http://www.caovel.com)
